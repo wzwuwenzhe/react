@@ -28,8 +28,8 @@ console.log(doubled);
 
 ```javascript{2-4}
 const numbers = [1, 2, 3, 4, 5];
-const listItems = numbers.map((number) =>
-  <li>{number}</li>
+const listItems = numbers.map((numbers) =>
+  <li>{numbers}</li>
 );
 ```
 
